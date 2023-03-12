@@ -1,0 +1,7 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  min-width: '100%';
+  z-index: 10;
+}
